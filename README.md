@@ -12,12 +12,12 @@
 
 ## ดาวน์โหลด
 1. ติดตั้งปลั๊กอิน Tampermonkey ก่อน
-  * Firefox - ติดตั้ง [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=firefox)
-  * Chrome - ติดตั้ง [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=chrome)
-  * Opera - ติดตั้ง [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=opera)
-  * Safari - ติดตั้ง [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=safari)
-  * Dolphin - ติดตั้ง [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=dolphin)
-  * UC Browser - ติดตั้ง [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=ucweb)
+   * Firefox - ติดตั้ง [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=firefox)
+   * Chrome - ติดตั้ง [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=chrome)
+   * Opera - ติดตั้ง [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=opera)
+   * Safari - ติดตั้ง [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=safari)
+   * Dolphin - ติดตั้ง [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=dolphin)
+   * UC Browser - ติดตั้ง [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=ucweb)
 
 
 2. ติดตั้งปลั๊กอิน Cover Next 
