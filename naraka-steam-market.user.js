@@ -2,7 +2,7 @@
 // @name         Naraka Steam Market
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  Tools to help you easily see the details of your items on Steam market
 // @author       NEKO
 // @match        https://steamcommunity.com/market/listings/1203220/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
